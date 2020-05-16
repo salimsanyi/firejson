@@ -1,7 +1,15 @@
 {
+  "scertGfxAds" : {
 
-		 "turnon": "1"
-	
-	
+
+    "BannerGFX" : "ca-app-pub-3940256099942544/6300978111" ,
+    "InterstitialGFX" : "ca-app-pub-3940256099942544/1033173712",
+	"GameID":"3559378"
+
+
+  }
+
+
+
 }
 
