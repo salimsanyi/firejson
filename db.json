@@ -2,10 +2,12 @@
   "scertGfxAds" : {
 
 
-     "BannerGFX" : "ca-app-pub-3940256099942544/6300978111" ,
-     "InterstitialGFX" : "ca-app-pub-3940256099942544/1033173712",
-     "GameID":"3559378",
-      "FacebookAds":"2973982562654927_2974037872649396"
+    "BannerGFX" : "ca-app-pub-3940256099942544/6300978111" ,
+    "InterstitialGFX" : "ca-app-pub-3940256099942544/1033173712",
+    "GameID":"3559378",
+    "InterstitialTow":"ca-app-pub-3940256099942544/1033173712",
+    "InterstitialThree":"ca-app-pub-3940256099942544/1033173712",
+    "FacebookAds":"2973982562654927_2974037872649396"
 
 
   }
